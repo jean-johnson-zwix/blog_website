@@ -1,0 +1,12 @@
+.landing-page{
+    margin-top: 10px !important;
+    background-color: rgba(128, 128, 128, 0.089) !important;
+}
+.banner{
+    color: white !important;
+    background-color: black !important;
+}
+.comments{
+    color: white !important;
+    font-size: 3em !important;
+}
